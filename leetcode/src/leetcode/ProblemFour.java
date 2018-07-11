@@ -66,4 +66,6 @@ public class ProblemFour {
 		double ret = new ProblemFour().findMedianSortedArrays(num1, num2);
 		System.out.println(ret);
 	}
+	
+	//test commit
 }
